@@ -1,2 +1,3 @@
 class EmailAddressParser 
-  def initialize()
+  def initialize(emails) 
+    @emails = email
