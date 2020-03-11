@@ -4,4 +4,5 @@ class EmailAddressParser
   end
   
   def parse 
-    
+    @emails.map do |word|
+    word
